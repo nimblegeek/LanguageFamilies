@@ -22,6 +22,6 @@ Build a Java package with the following three classes to model real-world langua
 
 - Language.java: for the ```Language``` parent class, which serves as the template for all languages.
 - Mayan.java: for ```Mayan```, a child class of Language modeled after the [Mayan language family](https://en.wikipedia.org/wiki/Mayan_languages).
-- SinoTibetan.java: for ```SinoTibetan```, a child class of Language modeled after the [Sino-Tibetan language family] (https://en.wikipedia.org/wiki/Sino-Tibetan_languages).
+- SinoTibetan.java: for ```SinoTibetan```, a child class of Language modeled after the [Sino-Tibetan language family](https://en.wikipedia.org/wiki/Sino-Tibetan_languages).
 
 This project was built as part of the [Create REST APIs](https://www.codecademy.com/learn/paths/create-rest-apis-with-spring-and-java) with Spring course on CodeAcademy.
