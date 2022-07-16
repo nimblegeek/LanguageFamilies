@@ -26,6 +26,11 @@ class Language {
         Language french = new Language("French", 321000000, "Europe, Africa, Canada, Asia, Middle East", "subject-verb-object");
         french.getInfo();
 
+        SinoTibetan mandarin = new SinoTibetan("Mandarin Chinese", 1110000000);
+        mandarin.getInfo();
+        SinoTibetan burmese = new SinoTibetan("Burmese", 43000000);
+        burmese.getInfo();
+
     }
 
 }
